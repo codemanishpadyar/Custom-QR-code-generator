@@ -7,9 +7,10 @@ It takes a **URL or text input from the user** and generates a **custom QR code 
 
 ##  Features
 - Generates QR codes for URLs or text
-- High error correction level
-- Custom size and border
-- Saves QR code as a PNG image
+- Auto-open QR after generation
+- Timestamp-based filename (to avoid overwrite)
+- Custom file name
+- Custom colors
 - Easy to use and beginner-friendly
 
 ---
